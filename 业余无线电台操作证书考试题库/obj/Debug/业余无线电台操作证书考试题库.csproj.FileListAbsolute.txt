@@ -1,0 +1,10 @@
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\obj\Debug\业余无线电台操作证书考试题库.csprojAssemblyReference.cache
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\obj\Debug\业余无线电台操作证书考试题库.Form1.resources
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\obj\Debug\业余无线电台操作证书考试题库.Properties.Resources.resources
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\obj\Debug\业余无线电台操作证书考试题库.csproj.GenerateResource.cache
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\obj\Debug\业余无线电台操作证书考试题库.csproj.CoreCompileInputs.cache
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\bin\Debug\业余无线电台操作证书考试题库.exe.config
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\bin\Debug\业余无线电台操作证书考试题库.exe
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\bin\Debug\业余无线电台操作证书考试题库.pdb
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\obj\Debug\业余无线电台操作证书考试题库.exe
+E:\vs_workspace\业余无线电台操作证书考试题库\业余无线电台操作证书考试题库\obj\Debug\业余无线电台操作证书考试题库.pdb
